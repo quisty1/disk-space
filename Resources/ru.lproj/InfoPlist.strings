@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "Место на диске";
+"NSDesktopFolderUsageDescription" = "Чтение размеров файлов для анализа места на диске.";
+"NSDocumentsFolderUsageDescription" = "Чтение размеров файлов для анализа места на диске.";
+"NSDownloadsFolderUsageDescription" = "Чтение размеров файлов для анализа места на диске.";

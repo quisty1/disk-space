@@ -1,0 +1,4 @@
+"CFBundleDisplayName" = "Disk Space";
+"NSDesktopFolderUsageDescription" = "Read folder sizes to show disk usage.";
+"NSDocumentsFolderUsageDescription" = "Read folder sizes to show disk usage.";
+"NSDownloadsFolderUsageDescription" = "Read folder sizes to show disk usage.";
